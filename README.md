@@ -30,18 +30,15 @@ Finally two additional dataframes were generated to contrast the statistics of t
 
 ### Regular customers
 
-* A total of 60 reviews were written by Vine members.
-* There were no 1-star reviews
-* There was only one entry given 2-stars, nine entries corresponded to 3-star reviews, sixteen 4-star reviews and thirty-four 5-star reviews.
+* A total of 14477 reviews were written by regular customers, not part of the Vine program.
+* The number of reviews made by regular customers far supersedes those made by Vine members.
+* There were reviews were classified as follows:
+  * 1-star = 1532 reviews 
+  * 2-star = 754 reviews 
+  * 3-star revone entry given 2-stars, nine entries corresponded to 3-star reviews, sixteen 4-star reviews and thirty-four 5-star reviews.
 * Over half of the reviews correspond to 5-star reviews (56.66% of the total reviews by Vine members).
 ![Normal_reviews](https://github.com/Li11iana/Amazon_Vine_Analysis/blob/main/Normal_reviews.png)
 
-* Vine members
-
-* How many Vine reviews and non-Vine reviews were there?
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-!https://github.com/Li11iana/Amazon_Vine_Analysis/blob/main/Normal_reviews.png
 
 # Summary:
 In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one ad
