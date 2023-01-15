@@ -20,10 +20,20 @@ Finally two additional dataframes were generated to contrast the statistics of t
 
 ### Vine program members
 
+* A total of 60 reviews were written by Vine members.
+* There were no 1-star reviews
+* There was only one entry given 2-stars, nine entries corresponded to 3-star reviews, sixteen 4-star reviews and thirty-four 5-star reviews.
+* Over half of the reviews correspond to 5-star reviews (56.66% of the total reviews by Vine members).
+
+
 ![Vine_reviews](https://github.com/Li11iana/Amazon_Vine_Analysis/blob/main/Vine_reviews.png)
 
 ### Regular customers
 
+* A total of 60 reviews were written by Vine members.
+* There were no 1-star reviews
+* There was only one entry given 2-stars, nine entries corresponded to 3-star reviews, sixteen 4-star reviews and thirty-four 5-star reviews.
+* Over half of the reviews correspond to 5-star reviews (56.66% of the total reviews by Vine members).
 ![Normal_reviews](https://github.com/Li11iana/Amazon_Vine_Analysis/blob/main/Normal_reviews.png)
 
 * Vine members
