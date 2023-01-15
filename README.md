@@ -15,14 +15,23 @@ The dataset evaluated on this project correspond to product reviews of items wit
 
 * https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Musical_Instruments_v1_00.tsv.gz
 
-Using bulleted lists and images of DataFrames as support, address the following questions:
+Dataset was extracted using pgAdmin to generate the required schemas.Groupped and filtered tables were exported and uploaded to S3 to facilitate further inspection. The reviews with less than 20 interactions (votes indicating if the review was helpful or not) where dropped and would not be included in the rest of the analysis.
+Finally two additional dataframes were generated to contrast the statistics of the reviews created by Vine program member versus the reviews written by regular customers.
 
-*
-*
-*
+### Vine program members
+
+![Vine_reviews](https://github.com/Li11iana/Amazon_Vine_Analysis/blob/main/Vine_reviews.png)
+
+### Regular customers
+
+![Normal_reviews](https://github.com/Li11iana/Amazon_Vine_Analysis/blob/main/Normal_reviews.png)
+
+* Vine members
+
 * How many Vine reviews and non-Vine reviews were there?
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+!https://github.com/Li11iana/Amazon_Vine_Analysis/blob/main/Normal_reviews.png
 
 # Summary:
 In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one ad
