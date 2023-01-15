@@ -35,10 +35,22 @@ Finally two additional dataframes were generated to contrast the statistics of t
 * There were reviews were classified as follows:
   * 1-star = 1532 reviews 
   * 2-star = 754 reviews 
-  * 3-star revone entry given 2-stars, nine entries corresponded to 3-star reviews, sixteen 4-star reviews and thirty-four 5-star reviews.
-* Over half of the reviews correspond to 5-star reviews (56.66% of the total reviews by Vine members).
+  * 3-star = 1292 reviews
+  * 4-star = 2687 reviews
+  * 5-star = 8212 reviews
+* The percentage of 5-star reviews matches with the Vine members table, with 56.72% of the total reviews analyzed in this dataframe. 
+
 ![Normal_reviews](https://github.com/Li11iana/Amazon_Vine_Analysis/blob/main/Normal_reviews.png)
 
 
 # Summary:
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one ad
+
+Reviewing the data provided it appears clearly that there is a significative difference between the number of reviews by Vine members compared to those by regular non-Vine customers, this difficults the comparison specially in a category like "Musical Instruments" that does not have the level of traffic as other Amazon shopping categories.
+However, when comparing the two dataframes generated we can conclude:
+* The percentage of 5-star reviews remains consistent between the two groups, Vine members 56.66% and non-Vine customers 56.72%. We can infer that the Vine members are not grading the products with easier to lower standards than the average online shopper, therefore to the extent of this analysis there is no evidence of bias from the Vine members.
+* Where 10.58% of the reviews made by non-vine member qualified the product with 1-star, there were zero 1-star reviews from the Vine-members. 1-star reviews label truly bad products, poor quality items, unpleasant customer service, and overall disagreeable experience for the customer.
+Instead of marking this as a potential evidence of bias from the Vine reviewers, this could be explained as vendors part of the Vine program would  likely be more interested in improving their sales and consequently with providing a better experience for the customer 
+
+### Additional analysis
+To improve the insights provided by the data, I would be beneficial to review cases of products with numerous reviews from both Vine and non-vine customers, this could show more clearly if there is bias from the program.
+Good reviews are a key to more purchases, often considering a deciding purchasing factor on Amazon. As an additional insight for the vendors an analysis per product or vendor showing the date and number of reviews writen could prove if being part of the Vine program increases the popularity of the items.
