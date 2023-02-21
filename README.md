@@ -53,4 +53,4 @@ Instead of marking this as a potential evidence of bias from the Vine reviewers,
 
 ### Additional analysis
 To improve the insights provided by the data, I would be beneficial to review cases of products with numerous reviews from both Vine and non-vine customers, this could show more clearly if there is bias from the program.
-Good reviews are a key to more purchases, often considering a deciding purchasing factor on Amazon. As an additional insight for the vendors an analysis per product or vendor showing the date and number of reviews writen could prove if being part of the Vine program increases the popularity of the items.
+Good reviews are a key to more purchases, often considered a deciding purchasing factor on Amazon. As an additional insight for the vendors an analysis per product or vendor showing the date and number of reviews writen could prove if being part of the Vine program increases the popularity of the items.
